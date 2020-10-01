@@ -1,4 +1,6 @@
 # sturdy-goggles
+ELECTRIC MAYHEM
+(example of no merge conflicts)
 
 hacktoberfest demo
 
