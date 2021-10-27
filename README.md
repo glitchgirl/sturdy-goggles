@@ -1,10 +1,10 @@
-# sturdy-goggles
-Welcome hacktoberfast 2021.
+  # sturdy-goggles
+<p align="center">Welcome hacktoberfest 2021.
 ELECTRIC MAYHEM
-(example of no merge conflicts)
+(example of no merge conflicts)</p>
 
-hacktoberfest demo
+  Hacktoberfest demo
 
-#this is me helping :happy:
+#### this is me helping 😃
 
-- this is a demo about how github works whoo!
+- this is a demo about how github works, whoo!
